@@ -62,6 +62,6 @@
 <div class="full-width"><div class="chart-box">{tabla_html}</div></div>
 -->
 
-<footer>Dashboard generado automáticamente con Python + Pandas + Plotly | Ministerio de Bienes Nacionales</footer>
+<footer>Dashboard generado automáticamente con Python + Pandas + Plotly | Ministerio de Bienes Nacionales | v0</footer>
 </body>
 </html>
